@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+springboot2-dubbo.iml
+**/**.iml
+**/target
